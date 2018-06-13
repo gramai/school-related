@@ -1,0 +1,8 @@
+NewYork LasVegas
+LosAngeles NewYork
+Washington NewYork
+LasVegas Washington
+Washington LosAngeles
+Boston Chicago
+Chicago Wisconsin
+Wisconsin Boston
