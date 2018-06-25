@@ -1,6 +1,7 @@
 # School-related
 I will use this repository to archive some of my school-related projects. For any questions, don't hesitate to contact me!
 
+# Contents
 
 | #   | Name                              | Programming Language    | Link                                                      |
 | --- | --------------------------------- | ----------------------- | ---------------------------------------------- |
